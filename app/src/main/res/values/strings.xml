@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">All Document Reader</string>
+    <string name="splashScreenImageView">splashScreenImageView</string>
+    <string name="one">One</string>
+    <string name="your_all_in_one_document_reader">Your all-in-one document reader</string>
+    <string name="read">Read</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recent">Recent</string>
+    <string name="setting">Setting</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="grid_view">Grid View</string>
+    <string name="all">All</string>
+    <string name="number_of_file">Size:File</string>
+    <string name="pdf">PDF</string>
+    <string name="word">Word</string>
+    <string name="excel">Excel</string>
+    <string name="ppt">Ppt</string>
+    <string name="txt">txt</string>
+    <string name="directories">Directories</string>
+    <string name="favorities">Favorities</string>
+    <string name="feedback">Feedback</string>
+    <string name="allow">Allow</string>
+</resources>

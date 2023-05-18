@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/gridView"
+        android:icon="@drawable/baseline_grid_view_24"
+        android:title="@string/grid_view"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/search"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_search_24"
+        android:title="@string/search" />
+</menu>
